@@ -1,0 +1,32 @@
+{
+  "name": "underscorejs-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jsdoc": "jsdoc ./src/underscorejs.js -d ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjsglion/underscorejs-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jsdoc": "^3.5.5"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "node-fetch": "^2.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/tjsglion/underscorejs-study/issues"
+  },
+  "homepage": "https://github.com/tjsglion/underscorejs-study#readme"
+}
